@@ -1,10 +1,9 @@
-from asb_config_helper import *
-
-name = "Test"
-
-recommended = True
-
-def install():
-    cinstall("neofetch")
-
-install()
+{
+"name": "Test",
+"recommended": True,
+"install": {
+"packages": {
+"neofetch"
+},
+},
+}
