@@ -2,5 +2,7 @@ import asb_config_helper
 
 name = "Test"
 
+recommended = "True"
+
 def install():
     install(neofetch)
