@@ -1,4 +1,4 @@
-import asb_config_helper
+from asb_config_helper import *
 
 name = "Test"
 
