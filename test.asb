@@ -5,4 +5,4 @@ name = "Test"
 recommended = True
 
 def install():
-    install(neofetch)
+    cinstall(neofetch)
