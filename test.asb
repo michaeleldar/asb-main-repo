@@ -1,3 +1,6 @@
 import asb_config_helper
 
-install(neofetch)
+name = "Test"
+
+def install():
+    install(neofetch)
