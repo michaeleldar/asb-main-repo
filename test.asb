@@ -1,9 +1,9 @@
 {
-"name": "Test",
-"recommended": True,
-"install": {
-"packages": {
-"neofetch"
-},
-},
+    "name": "Test",
+    "recommended": true,
+    "install": {
+        "packages": [
+            "neofetch"
+        ]
+    }
 }
