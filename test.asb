@@ -6,3 +6,5 @@ recommended = True
 
 def install():
     cinstall(neofetch)
+
+install()
